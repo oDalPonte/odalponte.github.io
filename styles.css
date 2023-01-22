@@ -1,0 +1,14 @@
+#toggle-dark-mode {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#toggle-dark-mode:hover {
+    background-color: #2980b9;
+}
