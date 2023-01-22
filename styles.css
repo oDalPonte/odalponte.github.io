@@ -12,3 +12,8 @@
 #toggle-dark-mode:hover {
     background-color: #2980b9;
 }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
